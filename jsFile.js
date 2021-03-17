@@ -7,7 +7,7 @@
 		});
 		
 	    var messageContent = app["data"]["message"];
-		var slideToggleMethod = app["methods"].slideToggle;
+	    var slideToggleMethod = app["methods"].slideToggle;
 		
 		
 	   function slideUp(){
