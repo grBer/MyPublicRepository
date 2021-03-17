@@ -49,7 +49,7 @@
 		
 		
 		
-        document.getElementById("app").innerHTML = messageContent;
+                document.getElementById("app").innerHTML = messageContent;
 		
 		document.getElementById("mybt").addEventListener("click", slideToggleMethod);	
 		
